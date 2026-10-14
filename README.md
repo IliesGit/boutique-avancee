@@ -125,3 +125,5 @@ api-boutique/
 ---
 
 Ce projet reprend exactement les exemples utilisés dans les chapitres **Environnement & Architecture MVC**, **MySQL & Sequelize**, **API REST**, **JavaScript**, **Bootstrap** et **Consommation de l'API**.
+
+Fonctionnalité Fournisseurs en cours
